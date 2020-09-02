@@ -1,0 +1,17 @@
+* {
+	justify-content: space-around;
+}
+
+html {
+	justify-content: space-around;
+}
+
+.Carousel-page {
+	display: flex;
+	size: 0.5;
+	max-height: 200px;
+	align-self: center;
+	align-content: center;
+	flex-shrink: 2rem;
+	transform: scale(0.5);
+}
